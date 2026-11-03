@@ -42,21 +42,28 @@ The Churn Prediction page supports CSV uploads for batch inference and provides 
 
 ## Dashboard Preview
 
-<!-- Add your actual dashboard screenshots to the screenshots/ directory and uncomment the relevant sections below. -->
+## 📸 Dashboard Preview
 
-<!--
-### Executive Overview
+### 1. Executive Overview
 ![Executive Overview](screenshots/executive_overview.png)
 
-### Customer Analytics
+### 2. Customer Analytics
 ![Customer Analytics](screenshots/customer_analytics.png)
 
-### Model Performance
+### 3. Model Performance
 ![Model Performance](screenshots/model_performance.png)
 
-### Churn Prediction
-![Churn Prediction](screenshots/churn_prediction.png)
--->
+### 4. Model Evaluation
+![Model Evaluation](screenshots/model_evaluation.png)
+
+### 5. Churn Prediction — CSV Upload
+![Churn Prediction Upload](screenshots/churn_prediction_upload.png)
+
+### 6. Prediction Results
+![Prediction Results](screenshots/prediction_results.png)
+
+### 7. Prediction Reports
+![Prediction Reports](screenshots/prediction_reports.png)
 
 ## Dataset
 
