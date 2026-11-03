@@ -1,0 +1,9 @@
+
+{
+    "model_name": "Tuned Random Forest",
+    "decision_threshold": 0.52,
+    "positive_class": 1,
+    "positive_class_meaning": "Churn = Yes",
+    "selection_basis": "Selected based primarily on 5-fold stratified cross-validation F1 score.",
+    "test_evaluation_limitation": "The test dataset was used in earlier model comparisons and is not a fully untouched final evaluation set."
+}
